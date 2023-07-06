@@ -1,0 +1,311 @@
+ @font-face {
+    font-family: "Playfair Display";
+    src: url(../fontes/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family:"Clicket_Script";
+    src: url("../fontes/ClickerScript-Regular.ttf");
+}
+
+
+.banner {
+    font-family:Playfair Display ;
+    height: 100vh;
+  width: 100%;
+    background-image: url("../img/coffee_image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.logo{
+    font-family:"Clicket_Script";
+    font-size: 28px;
+
+
+}
+
+ .nav_menu{
+
+    color: #fff;
+ }
+ .btn{
+
+color: #000;
+font-weight: 500;
+border-radius: 20px;
+background-color:#F9C06A ;
+
+ }
+ .ozeas{
+
+margin-top: 80px;
+margin-bottom: 40px;
+
+ }
+
+ .banner_texto_1{
+ margin-top: 60px;
+font-size: 22px;
+
+
+ }
+ .banner_texto_2{
+font-family:"Clicket_Script";
+font-size:200px;
+
+ }
+
+ .banner_texto_3{
+
+    font-size: 20px;
+    width: 600px;
+    font-weight: bold;
+
+ }
+
+ main{
+    font-family:"Playfair Display";
+ }
+ 
+ .texto1_post_2{
+font-size: 50px;
+color: red;
+font-weight:bold;
+margin-bottom: 15px;
+
+
+
+ }
+
+
+ .texto2_post_2{
+    color:#707070;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+ }
+
+ .img_xicara{
+
+  
+
+ }
+
+ .estrura{
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items:  center;
+   
+
+ }
+.texto_titulo{
+
+   margin-bottom:5px;
+
+}
+ .texto_titulo span{
+   
+ 
+   font-size:54px;
+   color:#603809;
+   font-weight: bold;
+ }
+.texto_titulo_2{
+
+   margin-bottom: 35px;
+}
+ .texto_titulo_2 span{
+
+font-size:20px;
+   color:#707070;
+ }
+ .cartao{
+   
+   height: 350px;
+   width: 256px;
+   border-width: thin;
+  border-style: solid;
+  border-color:#F9C06A;
+  background-color: #FFF9F1;
+   
+ }
+ .img_cafe{
+   width: 255px;
+   height: 215px;
+
+ }
+ .img_cafe img{
+   width: 255px;
+   height: 215px;
+
+
+ }
+
+ .dados_produto{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  
+ }
+ 
+ .nome_produto{
+margin-top:15px;
+font-size:22px;
+color:#603809;
+font-weight: bold;
+ }
+
+ .detalhes{
+      margin-top: 4px;
+      font-size:16px;
+      color: #1E1E1E;
+      
+ }
+ .preco{
+   font-size:18px;
+   color:#603809;
+   font-weight: bold;
+   margin-bottom: 10px;
+
+ }
+ .img_grao_cafe {
+  
+
+   width: 100px;
+   height: 100px;
+
+
+ }
+
+ .img_grao_cafe img{
+
+   margin-top: 50px;
+   width: 100px;
+   height: 100px;
+ }
+ 
+ .cartao_2{
+   
+   display: flex;
+   flex-direction:column;
+   align-items:center;
+   height: 260px;
+   width: 256px;
+ 
+  background-color: #FFEED8;
+ }
+
+ .cartao_3{
+   
+   display: flex;
+   flex-direction:column;
+   align-items:center;
+   height: 260px;
+   width: 256px;
+   border-width: thin;
+  border-style: solid;
+  border-color:#FCE1B8;
+  background-color:#FFF9F1;
+ }
+   
+ .nome_produto_2{
+   font-size:28px;
+   color:#603809;
+   font-weight: bold;
+   margin-top: 65px;
+   
+ }
+
+ .detalhes{
+   color:#707070;
+ }
+
+ .conteudo_estrutura{
+   margin-top: 90px;
+
+ }
+
+ .textos{
+   display: flex;
+   flex-direction:column;
+   align-items:center;
+   margin-bottom: 8px;
+
+
+ }
+
+
+.final{
+   margin-top: 40px;
+   display: flex;
+   flex-direction:column;
+   align-items:center;
+}
+ .texto_bloco{
+
+   color:#707070;
+   font-size: 20px;
+ }
+ .texto_bloco_2{
+
+   font-size: 30px;
+   color: #603809;
+ }
+
+ .banner_saction{
+   margin-top: 80px;
+   background-image: url("../img/banner3.png");
+   background-size: contain;
+    background-repeat: no-repeat;
+    height: 640px;
+    width: 1348px;
+   }
+
+   .banner_2_texto1{
+color: #fff;
+font-weight: bold;
+font-size:54px;
+width:575px;
+   }
+
+   .banner_2_texto2{
+      color: #fff;
+      font-size:20px;
+      width:409px;
+      margin-bottom: 13px;
+
+   }
+.caixa_estrutua{
+   margin-top: 110px;
+
+}
+/* 
+.section_final{
+
+background-image: url("../img/cortes/Frame\ 1\ \(1\).png");
+background-size: contain;
+background-repeat: no-repeat;
+height: 278px;
+    width: 498px;
+margin-left: 879px;
+
+}
+
+.section_final{
+background-image: url("../img/cortes/coffee_blast\ \(1\).png");
+background-size: contain;
+background-repeat: no-repeat;
+height: 278px;
+    width: 498px;
+margin-left: 879px;
+
+} */
+
+.teste{
+background-image:url("../img/cortes/coffee_blast\ \(1\).png");
+background-repeat: no-repeat;
+
+
+}
